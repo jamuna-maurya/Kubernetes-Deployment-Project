@@ -237,9 +237,22 @@ kubectl get rs
 kubectl get svc
 kubectl get hpa
 kubectl top pods
+```
+📷final screenshot-
+##<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/e56b7366-42ae-4c5c-a5cc-361d5a5d65d2" />
 
 
 
+##<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/62ef611f-70f9-47af-8b13-be3cb184ee2a" />
+
+
+browse -
+[http://<your-public-ip>:8080]
+
+##<img width="2764" height="1376" alt="image" src="https://github.com/user-attachments/assets/3f16bd93-2613-40bb-922b-0006ec8c60b6" />
+
+
+```
 
 Project Outcomes
 
