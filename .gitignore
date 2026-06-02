@@ -1,0 +1,8 @@
+cat > .gitignore << EOF
+node_modules/
+build/
+.env
+.minikube/
+minikube-linux-amd64
+*.log
+EOF
